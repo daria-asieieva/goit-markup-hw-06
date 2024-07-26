@@ -235,8 +235,8 @@ button {
     
     display: flex;
     flex-wrap: wrap;
-    /* flex-direction: row;
-    justify-content: space-between; */
+    flex-direction: row;
+    justify-content: space-between;
     /* gap: 24px; */
     gap: 72px;
 
@@ -983,6 +983,7 @@ button {
         .quality-item {
     
             width: calc((100% - 24px) / 2);
+            
         
         }
 
@@ -993,7 +994,7 @@ button {
        
 
         .quality-list {
-            gap: 72px 24px;
+        gap: 72px 24px;
         }
 
         .quality-item-text {
@@ -1002,3 +1003,4 @@ button {
                 
         }
 }
+
