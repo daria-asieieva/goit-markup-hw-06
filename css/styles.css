@@ -1320,10 +1320,10 @@ button {
     }
 
     .footer {
-        /* padding-bottom: 100px;
+        padding-bottom: 100px;
         padding-top: 100px;
-        padding-left: 16px; */
-        /* align-items: center; */
+        padding-left: 16px; 
+        align-items: center;
         
     }
 
@@ -1331,17 +1331,14 @@ button {
         padding-right: 120px;
         padding-left: 156px;
     }
-.div-media {
-    padding-right: 80px;
-}
+
     .footer-logo {
         display: inline-block;
 
     }
 
-    .div-form {
-        padding-right: 159px;
-    }
+    
+
 
     .footer-input {
         width: 264px;
